@@ -23,7 +23,6 @@ dl-semana6-apellidos/
 |   |-- checkpoints/
 |   |-- figures/
 |   `-- tables/
-|-- informe.md
 `-- informe.pdf
 ```
 
