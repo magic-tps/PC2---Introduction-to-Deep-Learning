@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+matplotlib
+scikit-learn
+pandas
+jupyter
+nbformat
+nbclient
+nbconvert
+ipykernel
+pillow
